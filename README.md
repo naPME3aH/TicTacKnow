@@ -32,7 +32,7 @@
 1. Убедитесь, что у вас установлен Python 3.x.
 2. Скачайте репозиторий:
    ```bash
-   git clone https://github.com/Ваш_профиль/TicTacKnow.git
+   git clone https://github.com/naPME3aH/TicTacKnow.git
    cd TicTacKnow
    ```
 3. Запустите проект:
